@@ -105,29 +105,16 @@ hr {
     margin-right: 120px;
 }
 
-/* Styles for the About Us: Layout */
-
-article image {
-    float: left;
-}
-
-article figcaption {
-    float: left;
-}
 
 /* Styles for the Contact Page: Layout */
 form {
     margin: 0 auto;
 }
 
-/* Styles for the Tips Page: Layout */
-.tips {
-    margin: 50px 100px 50px 0;
-    float:left;
+.contactpics {
+    vertical-align: middle;
+    margin-right: 10px;
+    text-align: center;
 }
 
-.tips .entire-tips {
-    display: inline-block;
-    margin: 60px 0 50px 0;
-    max-width: 600px;
-}
+/* Styles for the Tips Page: Layout */
